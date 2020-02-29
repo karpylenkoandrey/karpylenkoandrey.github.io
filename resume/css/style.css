@@ -1,0 +1,28 @@
+.title {
+    color: red;
+    font-size: 64px;
+    line-height: 120px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text {
+    background-color: aqua;
+    border: 1px solid black;
+    border-left-color: yellow;
+    border-left-width: 5px;
+    border-top: tomato 10px dashed;
+    line-height: 32px;
+}
+
+.text2 {
+    color: gray;
+}
+
+.list {
+    background-image: url(../img/girl.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
